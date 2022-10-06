@@ -1,0 +1,198 @@
+|CÓDIGO|DESCRIÇÃO|IRPJ DEVIDO|CSLL DEVIDO|PIS DEVIDO|COFINS DEVIDO|ISS DEVIDO|INSS DEVIDO|
+|01.01|Análise e desenvolvimento de sistemas.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|01.02|Programação.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|01.03|Processamento de dados e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|01.04|Elaboração de programas de computadores, inclusive de jogos eletrônicos.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|01.05|Licenciamento ou cessão de direito de uso de programas de computação.Obs.: Há retenção somente se houver cessão do direito de uso de programa desenvolvido especialmente para certo usuário. Não há retenção para licenças de softwares desenvolvidos sem exclusividade, softwares de prateleira, por exemplo.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|01.06|Assessoria e consultoria em informática.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|01.07|Assessoria e consultoria em informática.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|01.08|Planejamento, confecção, manutenção e atualização de páginas eletrônicas.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|02.01|Serviços de pesquisas e desenvolvimento de qualquer natureza.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|03.01|Cessão de direito de uso de marcas e de sinais de propaganda.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|03.02|Exploração de salões  de festas,  centro de convenções,  escritórios  virtuais, stands,  quadras  esportivas,|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|03.03|Locação, sublocação, arrendamento, direito de passagem ou permissão de uso, compartilhado ou não, de|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|03.04|Cessão de andaimes, palcos, coberturas e outras estruturas de uso temporário.|NÃO|NÃO|NÃO|NÃO|SIM|NÃO|
+|04.01|Medicina e biomedicina.Obs: Não há retenção se o serviço for prestado por ambulatório, banco de sangue, casa de saúde, casa de recuperação ou repouso sob orientação médica, hospital e pronto-socorro. As importâncias pagas à Cooperativas de trabalho médico, referente a serviços prestados por seus associados, estão sujeitas a Retenção na Fonte.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|04.02|Análises clínicas, patologia, eletricidade médica, radioterapia, quimioterapia, ultra-sonografia, ressonância magnética, radiologia, tomografia e congêneres.Obs: Não há retenção se o serviço for prestado por ambulatório, banco de sangue, casa de saúde, casa de recuperação ou repouso sob orientação médica, hospital e pronto-socorro. As importâncias pagas à Cooperativas de trabalho médico, referente a serviços prestados por seus associados, estão sujeitas a Retenção na Fonte.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|04.03|Hospitais, clínicas, laboratórios, sanatórios, manicômios, casas de saúde, prontos-socorros, ambulatórios e congêneres.Obs: Não há retenção se o serviço for prestado por ambulatório, banco de sangue, casa de saúde, casa de recuperação ou repouso sob orientação médica, hospital e pronto-socorro. As importâncias pagas à Cooperativas de trabalho médico, referente a serviços prestados por seus associados, estão sujeitas a Retenção na Fonte.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|04.04|Instrumentação cirúrgica.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|04.05|Acupuntura.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|04.06|Enfermagem, inclusive serviços auxiliares.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|04.07|Serviços farmacêuticos.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|04.08|Terapia ocupacional, fisioterapia e fonoaudiologia.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|04.09|Terapias de qualquer espécie destinadas ao tratamento físico, orgânico e mental.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|04.10|Nutrição.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|04.11|Obstetrícia.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|04.12|Odontologia.Obs: Não há retenção se o serviço for prestado por ambulatório, banco de sangue, casa de saúde, casa de recuperação ou repouso sob orientação médica, hospital e pronto-socorro|SIM|SIM|SIM|SIM|NÃO|SIM|
+|04.13|Ortóptica.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|04.14|Próteses sob encomenda.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|04.15|Psicanálise.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|04.16|Psicologia.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|04.17|Casas de repouso e de recuperação, creches, asilos e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|04.18|Inseminação artificial, fertilização in vitro e congêneres.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|04.19|Bancos de sangue, leite, pele, olhos, óvulos, sêmen e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|04.20|Coleta de sangue, leite, tecidos, sêmen, órgãos e materiais biológicos de qualquer espécie.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|04.21|Coleta de sangue, leite, tecidos, sêmen, órgãos e materiais biológicos de qualquer espécie.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|04.22|Planos de medicina de grupo ou individual e convênios para prestação de assistência médica, hospitalar, odontológica e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|04.23|Outros  planos  de  saúde  que  se  cumpram  através  de  serviços  de  terceiros  contratados,  credenciados,|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|05.01|Medicina veterinária e zootecnia.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|05.02|Hospitais, clínicas, ambulatórios, prontos-socorros e congêneres, na área veterinária.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|05.03|Laboratórios de análise na área veterinária.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|05.04|Inseminação artificial, fertilização in vitro e congêneres.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|05.05|Bancos de sangue e de órgãos e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|05.06|Coleta de sangue, leite, tecidos, sêmen, órgãos e materiais biológicos de qualquer espécie.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|05.07|Unidade de atendimento, assistência ou tratamento móvel e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|05.08|Guarda, tratamento, amestramento, embelezamento, alojamento e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|05.09|Planos de atendimento e assistência médico-veterinária.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|06.01|Barbearia, cabeleireiros, manicuros, pedicuros e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|06.02|Esteticistas, tratamento de pele, depilação e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|06.03|Banhos, duchas, sauna, massagens e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|06.04|Ginástica, dança, esportes, natação, artes marciais e demais atividades físicas.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|06.05|Centros de emagrecimento, spa e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|07.01|Engenharia, agronomia, agrimensura, arquitetura, geologia, urbanismo, paisagismo e congêneres.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|07.02|Execução,  por administração, empreitada ou subempreitada,  de obras de  construção civil,  hidráulica  ou|NÃO|NÃO|NÃO|NÃO|SIM|SIM|
+|07.03|Elaboração de planos diretores, estudos de viabilidade, estudos organizacionais e outros, relacionados com|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|07.04|Demolição.|NÃO|NÃO|NÃO|NÃO|SIM|SIM|
+|07.05|Reparação, conservação e reforma de edifícios, estradas, pontes, portos e congêneres|NÃO|NÃO|NÃO|NÃO|SIM|SIM|
+|07.06|Colocação e instalação de tapetes, carpetes, assoalhos, cortinas, revestimentos de parede, vidros,|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|07.07|Recuperação, raspagem, polimento e lustração de pisos e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|07.08|Calafetação.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|07.09|Varrição, coleta, remoção, incineração, tratamento, reciclagem, separação e destinação final de lixo, rejeitosObs.: Conforme Soluções de Consultas nº 39/1997 e 160/2005, deve ser observado o seguinte: a) quando referentes à prestação de serviços de coleta de lixo, por se caracterizarem como serviços de limpeza em geral, sujeitam-se à retenção; b) não incide retenção sobre à remuneração pela prestação de serviços de coleta de lixo domiciliar e urbana, desde que a limpeza e o acondicionamento sejam de responsabilidade de outrem.|SIM|SIM|SIM|SIM|SIM|SIM|
+|07.10|Limpeza, manutenção e conservação de vias e logradouros públicos, imóveis, chaminés, piscinas, parques,|SIM|SIM|SIM|SIM|SIM|SIM|
+|07.11|Decoração e jardinagem, inclusive corte e poda de árvores.Obs.: Retenção apenas sobre corte e poda.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|07.12|Controle e tratamento de efluentes de qualquer natureza e de agentes físicos, químicos e biológicos.|SIM|SIM|SIM|SIM|SIM|NÃO|
+|07.13|Dedetização, desinfecção, desinsetização, imunização, higienização, desratização, pulverização e congêneres.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|07.14|Florestamento, reflorestamento, semeadura, adubação e congêneres.|SIM|SIM|SIM|SIM|SIM|SIM|
+|07.15|Escoramento, contenção de encostas e serviços congêneres.|NÃO|NÃO|NÃO|NÃO|SIM|SIM|
+|07.16|Limpeza e dragagem de rios, portos, canais, baías, lagos, lagoas, represas, açudes e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|07.17|Acompanhamento e fiscalização da execução de obras de engenharia, arquitetura e urbanismo.Obs.: Retenção somente quando o serviço for executado pelo engenheiro (exceto construção de estradas, pontes, prédios e obras assemelhadas), arquiteto ou urbanista|NÃO|NÃO|NÃO|NÃO|SIM|NÃO|
+|07.18|Aerofotogrametria (inclusive  interpretação),  cartografia,  mapeamento,  levantamentos  topográficos.Obs.: Retenção somente quando o serviço for executado pelo engenheiro (exceto construção de estradas, pontes, prédios e obras assemelhadas), arquiteto ou urbanista|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|07.19|Pesquisa, perfuração, cimentação, mergulho, perfilagem, concretação, testemunhagem, pescaria,|SIM|SIM|SIM|SIM|SIM|NÃO|
+|07.20|Nucleação e bombardeamento de nuvens e congêneres.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|08.01|Ensino regular pré-escolar, fundamental, médio e superior.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|08.02|Instrução,  treinamento,  orientação  pedagógica  e  educacional,  avaliação  de  conhecimentos  de  qualquer|SIM|SIM|SIM|SIM|NÃO|SIM|
+|09.01|Hospedagem  de  qualquer  natureza  em  hotéis,  apart-service  condominiais,  flat,  apart-hotéis,  hotéis|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|09.02|Agenciamento,  organização,  promoção,  intermediação  e  execução  de  programas  de  turismo,  passeios.Obs.: Sobre as comissões/participações|SIM|NÃO|NÃO|NÃO|NÃO|NÃO|
+|09.03|Guias de turismo.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|10.01|Agenciamento, corretagem ou intermediação de câmbio, de seguros, de cartões de crédito, de planos...Obs.: Sobre as comissões/participações. No caso de corretagem ou intermediação de câmbio a responsabilidade pelo recolhimento é do prestador do servço (IN SRF nº 153/1987).|SIM|NÃO|NÃO|NÃO|NÃO|NÃO|
+|10.02|Agenciamento, corretagem ou intermediação de títulos em geral, valores mobiliários e contratos quaisquer.Obs.: Sobre as comissões/participações. No caso de colocação ou negociação de títulos de renda fixa, a responsabilidade pelo recolhimento é do prestador do serviço (IN SRF nº 153/1987).|SIM|NÃO|NÃO|NÃO|NÃO|NÃO|
+|10.03|Agenciamento, corretagem ou intermediação de direitos de propriedade industrial, artística ou literária.Obs.: Sobre as comissões/participações|SIM|NÃO|NÃO|NÃO|NÃO|NÃO|
+|10.04|Agenciamento,  corretagem  ou  intermediação  de  contratos  de  arrendamento  mercantil  (leasing)...Obs.: Sobre as comissões/participações|SIM|NÃO|NÃO|NÃO|NÃO|NÃO|
+|10.05|Agenciamento, corretagem ou intermediação de bens móveis ou imóveis, não abrangidos em outros itensObs.: Sobre as comissões/participações. Quando realizados no âmbito de bolsa de mercadorias a responsabilidade é do prestador do serviço (IN SRF nº 153/1987).|SIM|NÃO|NÃO|NÃO|NÃO|NÃO|
+|10.06|Agenciamento marítimo.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|10.07|Agenciamento de notícias.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|10.08|Agenciamento de publicidade e propaganda, inclusive o agenciamento de veiculação por quaisquer meios.Obs.: O responsável pelo recolhimento é o Prestador de Serviço de Publicidade e Propoganda Excluem-se da base de cálculo as importâncias pagas diretamente ou repassadas a empresas de rádio e televisão, jornais e revistas, atribuída à pessoa jurídica pagadora e à beneficiária responsabilidade solidária pela comprovação da efetiva realização dos serviços.|SIM|NÃO|NÃO|NÃO|NÃO|NÃO|
+|10.09|Representação de qualquer natureza, inclusive comercial.Obs.: O responsável pelo recolhimento é o Prestador de Serviço de Publicidade e Propoganda Excluem-se da base de cálculo as importâncias pagas diretamente ou repassadas a empresas de rádio e televisão, jornais e revistas, atribuída à pessoa jurídica pagadora e à beneficiária responsabilidade solidária pela comprovação da efetiva realização dos serviços.|SIM|NÃO|NÃO|NÃO|NÃO|NÃO|
+|10.10|Distribuição de bens de terceiros.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|11.01|Guarda e estacionamento de veículos terrestres automotores, de aeronaves e de embarcações.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|11.02|Vigilância, segurança ou monitoramento de bens e pessoas.|SIM|SIM|SIM|SIM|SIM|SIM|
+|11.03|Escolta, inclusive de veículos e cargas.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|11.04|Armazenamento, depósito, carga, descarga, arrumação e guarda de bens de qualquer espécie.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|12.01|Espetáculos teatrais.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|12.02|Exibições cinematográficas.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|12.03|Espetáculos circenses.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|12.04|Programas de auditório.|NÃO|NÃO|NÃO|NÃO|NÃO||
+|12.05|Parques de diversões, centros de lazer e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO||
+|12.06|Boates, taxi-dancing e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO||
+|12.07|Shows, ballet, danças, desfiles, bailes, óperas, concertos, recitais, festivais e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|12.08|Feiras, exposições, congressos e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|12.09|Bilhares, boliches e diversões eletrônicas ou não.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|12.10|Corridas e competições de animais.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|12.11|Competições esportivas ou de destreza física ou intelectual, com ou sem a participação do espectador.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|12.12|Execução de música.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|12.13|Produção,  mediante  ou  sem  encomenda  prévia,  de  eventos,  espetáculos,  entrevistas,  shows,  ballet,|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|12.14|Fornecimento de música para ambientes fechados ou não, mediante transmissão por qualquer processo.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|12.15|Desfiles de blocos carnavalescos ou folclóricos, trios elétricos e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|12.16|Exibição de filmes, entrevistas, musicais, espetáculos, shows, concertos, desfiles, óperas, competições|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|12.17|Recreação e animação, inclusive em festas e eventos de qualquer natureza.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|13.01|Fonografia ou gravação de sons, inclusive trucagem, dublagem, mixagem e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|13.02|Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução, trucagem e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|13.03|Reprografia, microfilmagem e digitalização.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|13.04|Composição gráfica, fotocomposição, clicheria, zincografia, litografia, fotolitografia.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|13.05|Composição gráfica, inclusive confecção de impressos gráficos, fotocomposição, clicheria, zincografia, litografia e fotolitografia, exceto se destinados a posterior operação de comercialização ou industrialização, ainda que incorporados, de qualquer forma, a outra mercadoria que deva ser objeto de posterior circulação, tais como bulas, rótulos, etiquetas, caixas, cartuchos, embalagens e manuais técnicos e de instrução, quando ficarão sujeitos ao ICMS.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|14.01|Lubrificação, limpeza, lustração, revisão, carga e recarga, conserto, restauração, blindagem, manutenção.Obs.: Estão sujeitos à retenção na fonte das contribuições federais, quando a contratação ocorrer em caráter preventivo, isto é, com a finalidade de manter as ferramentas em condições eficientes de operação. (Restauração, Conservação e Lubrificação).|SIM|SIM|SIM|SIM|NÃO|SIM|
+|14.02|Assistência técnica.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|14.03|Recondicionamento de motores (exceto peças e partes empregadas, que ficam sujeitas ao ICMS).|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|14.04|Recauchutagem ou regeneração de pneus.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|14.05|Restauração. Recondicionamento, acondicionamento, pintura tingimento, galvanoplastia, anodização, corte, recorte|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|14.06|Instalação e montagem de aparelhos, máquinas e equipamentos, inclusive montagem industrial, prestados|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|14.07|Colocação de molduras e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|14.08|Encadernação, gravação e douração de livros, revistas e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|14.09|Alfaiataria e costura, quando o material for fornecido pelo usuário final, exceto aviamento.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|14.10|Tinturaria e lavanderia.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|14.11|Tapeçaria e reforma de estofamentos em geral.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|14.12|Funilaria e lanternagem.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|14.13|Carpintaria e serralheria.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|14.14|Guincho intramunicipal, guindaste e içamento.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|15.01|Administração de fundos quaisquer, de consórcio, de cartão de crédito ou débito e congêneres, de carteira|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|15.02|Abertura de contas em geral, inclusive conta-corrente, conta de investimentos e aplicação e caderneta de|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|15.03|Locação e manutenção de cofres particulares, de terminais eletrônicos, de terminais de atendimento e de|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|15.04|Fornecimento ou emissão de atestados em geral, inclusive atestado de idoneidade, atestado de|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|15.05|Cadastro,  elaboração  de  ficha  cadastral,  renovação  cadastral  e  congêneres,  inclusão  ou  exclusão  no|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|15.06|Emissão, reemissão e fornecimento de avisos, comprovantes e documentos em geral; abono de firmas;|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|15.07|Acesso,  movimentação,  atendimento  e  consulta  a  contas  em  geral,  por  qualquer  meio  ou  processo,|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|15.08|Emissão,  reemissão,  alteração,  cessão,  substituição,  cancelamento  e  registro  de  contrato  de  crédito;|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|15.09|Substituição  de  garantia,  alteração,  cancelamento  e  registro  de  contrato,  e  demais  serviços  relacionados  ao arrendamento mercantil (leasing).|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|15.10|Serviços relacionados a cobranças, recebimentos ou pagamentos em geral, de títulos quaisquer, de contas|SIM|SIM|SIM|SIM|NÃO|SIM|
+|15.11|Devolução de títulos, protesto de títulos, sustação de protesto, manutenção de títulos, reapresentação de|SIM|SIM|SIM|SIM|NÃO|SIM|
+|15.12|Custódia em geral, inclusive de títulos e valores mobiliários.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|15.13|Serviços relacionados a operações de câmbio em geral, edição, alteração, prorrogação, cancelamento e baixa  de  contrato  de  câmbio|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|15.14|Fornecimento,  emissão,  reemissão,  renovação  e  manutenção  de  cartão  magnético,  cartão  de  crédito,|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|15.15|Compensação  de  cheques  e  títulos  quaisquer;  serviços  relacionados  a  depósito,  inclusive  depósito|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|15.16|Emissão,  reemissão,  liquidação,  alteração, cancelamento e baixa  de  ordens  de pagamento,  ordens de|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|15.17|Emissão, fornecimento, devolução, sustação, cancelamento e oposição de cheques quaisquer, avulso ou por talão.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|15.18|Serviços relacionados a crédito imobiliário, avaliação e vistoria de imóvel ou obra, análise técnica e jurídica,|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|16.01|Serviços de transporte de natureza municipal.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|16.02|Outros serviços de transportes.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|17.01|Assessoria ou consultoria de qualquer natureza, não contida em outros itens desta lista; análise, exame,|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|17.02|Datilografia, digitação, estenografia, expediente, secretaria em geral, resposta audível, redação, edição,|SIM|SIM|SIM|SIM|NÃO|SIM|
+|17.03|Planejamento, coordenação, programação ou organização técnica, financeira ou administrativa.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|17.04|Recrutamento, agenciamento, seleção e colocação de mão-de-obra.|SIM|NÃO|NÃO|NÃO|NÃO|NÃO|
+|17.05|Fornecimento de mão-de-obra, mesmo em caráter temporário, inclusive de empregados ou trabalhadores,|SIM|SIM|SIM|SIM|NÃO|SIM|
+|17.06|Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas...Obs.: O Responsável pelo recolhimento é o Prestador de Serviços. Excluem-se da base de cálculo as importâncias pagas diretamente ou repassadas a empresas de rádio e televisão, jornais e revistas,atribuída à pessoa jurídica pagadora e à beneficiária responsabilidade solidária pela comprovação da efetiva realização dos serviços.|SIM|NÃO|NÃO|NÃO|NÃO|SIM|
+|17.07|Franquia (franchising).|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|17.08|Perícias, laudos, exames técnicos e análises técnicas.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|17.09|Planejamento, organização e administração de feiras, exposições, congressos e congêneres.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|17.10|Organização de festas e recepções; bufê (exceto o fornecimento de alimentação e bebidas, que fica sujeito ao ICMS).|SIM|SIM|SIM|SIM|NÃO|SIM|
+|17.11|Administração em geral, inclusive de bens e negócios de terceiros.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|17.12|Leilão e congêneres.Obs.: Exceto consórcios ou fundos mútuos para aquisição de bens.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|17.13|Advocacia.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|17.14|Arbitragem de qualquer espécie, inclusive jurídica.Obs.: Retenção somente para arbitragem juridica.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|17.15|Auditoria.Obs.: Retenção somente para arbitragem juridica.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|17.16|Análise de Organização e Métodos.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|17.17|Atuária e cálculos técnicos de qualquer natureza.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|17.18|Contabilidade, inclusive serviços técnicos e auxiliares.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|17.19|Consultoria e assessoria econômica ou financeira.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|17.20|Estatística.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|17.21|Cobrança em geral.Obs.: Somente cobrança judicial|SIM|SIM|SIM|SIM|NÃO|SIM|
+|17.22|Assessoria, análise, avaliação, atendimento, consulta, cadastro, seleção, gerenciamento de informações.Obs.: Não há retenção quando a prestação de serviços é de cobrança extrajudcial (Solução de Divergência COSIT nº 36/2008)|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|17.23|Apresentação de palestras, conferências, seminários e congêneres.|SIM|SIM|SIM|SIM|NÃO|SIM|
+|17.24|Inserção de textos, desenhos e outros materiais de propaganda e publicidade, em qualquer meio (exceto em livros, jornais, periódicos e nas modalidades de serviços de radiodifusão sonora e de sons e imagens de recepção livre e gratuita)|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|18.01|Serviços de regulação de sinistros vinculados a contratos de seguros; inspeção e avaliação de riscos para|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|19.01|Serviços de distribuição e venda de bilhetes e demais produtos de loteria, bingos, cartões, pules ou cupons|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|20.01|Serviços  portuários,  ferroportuários,  utilização  de  porto,  movimentação  de  passageiros,  reboque  de|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|20.02|Serviços aeroportuários, utilização de aeroporto, movimentação de passageiros, armazenagem de|SIM|SIM|SIM|SIM|NÃO|SIM|
+|20.03|Serviços de terminais rodoviários, ferroviários, metroviários, movimentação de passageiros, mercadorias,|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|21.01|Serviços de registros públicos, cartorários e notariais.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|22.01|Serviços  de exploração  de rodovia mediante  cobrança de  preço ou  pedágio dos  usuários,  envolvendo|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|23.01|Serviços de programação e comunicação visual, desenho industrial e congêneres.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|24.01|Serviços de chaveiros, confecção de carimbos, placas, sinalização visual, banners, adesivos e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|25.01|Funerais,  inclusive  fornecimento  de  caixão,  urna  ou  esquifes;  aluguel  de  capela;  transporte  do  corpo|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|25.02|Cremação de corpos e partes de corpos cadavéricos.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|25.03|Planos ou convênio funerários.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|25.04|Manutenção e conservação de jazigos e cemitérios.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|26.01|Serviços  de  coleta,  remessa  ou  entrega  de  correspondências,  documentos,  objetos,  bens  ou  valores,|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|27.01|Serviços de assistência social.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|28.01|Serviços de avaliação de bens e serviços de qualquer natureza.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|29.01|Serviços de biblioteconomia.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|30.01|Serviços de biologia, biotecnologia e química.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|31.01|Serviços técnicos em edificações, eletrônica, eletrotécnica, mecânica, telecomunicações e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|32.01|Serviços de desenhos técnicos.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|33.01|Serviços de desembaraço aduaneiro, comissários, despachantes e congêneres.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|34.01|Serviços de investigações particulares, detetives e congêneres.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|35.01|Serviços de reportagem, assessoria de imprensa, jornalismo e relações públicas. Obs.: Somente há retenção nos serviços de relações públicas.|SIM|SIM|SIM|SIM|NÃO|NÃO|
+|36.01|Serviços de meteorologia.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|37.01|Serviços de artistas, atletas, modelos e manequins.|NÃO|NÃO|NÃO|NÃO|NÃO|SIM|
+|38.01|Serviços de museologia.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|39.01|Serviços de ourivesaria e lapidação (quando o material for fornecido pelo tomador do serviço).|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
+|40.01|Obras de arte sob encomenda.|NÃO|NÃO|NÃO|NÃO|NÃO|NÃO|
